@@ -23,10 +23,10 @@ questions:
         rationale: "🎉"
       - content: "`:target`"
         rationale: "Functional pseudo-classes have `()` after them, to indicate
-        they accept paremeters."
+        they accept parameters."
       - content: "`:empty`"
         rationale: "Functional pseudo-classes have `()` after them, to indicate
-        they accept paremeters."
+        they accept parameters."
       - content: "`:not()`"
         rationale: "🎉"
   - type: multiple-choice
